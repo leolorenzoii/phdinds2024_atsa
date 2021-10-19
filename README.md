@@ -1,4 +1,4 @@
-# Machine Learning 2 Model Interpretability
+# Advance Time Series Analysis - AIM Phd in DS 2024
 
 This repository contains codes and notebooks used in the discussion of PhD 2024 ATSA course.
 

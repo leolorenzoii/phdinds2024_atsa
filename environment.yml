@@ -1,4 +1,4 @@
-name: phd2024_atsa
+name: phdinds2024_atsa
 channels:
   - conda-forge
   - defaults

@@ -2,7 +2,7 @@
 
 This repository contains codes and notebooks used in the discussion of PhD 2024 ATSA course.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leolorenzoii/phd2024_atsa/blob/main/) [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leolorenzoii/phd2024_atsa.git/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leolorenzoii/phdinds2024_atsa/blob/main/) [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leolorenzoii/phdinds2024_atsa.git/main)
 
 
 
@@ -18,12 +18,12 @@ After installing `conda`, create the environment for this repository using the f
 conda env create -f environment.yml
 ```
 
-This creates an environment named `phd2024_atsa` and installs all the required packages with the specified version according to the `environment.yml` file specified here.
+This creates an environment named `phdinds2024_atsa` and installs all the required packages with the specified version according to the `environment.yml` file specified here.
 
 Activate this environment using the command:
 
 ```
-conda activate phd2024_atsa
+conda activate phdinds2024_atsa
 ```
 
 Afterwards, launch the jupyter notebook in your machine.
@@ -44,9 +44,9 @@ After making sure that `conda` works in jojie, create the environment for this r
 conda env create -f environment.yml
 ```
 
-This creates a `phd2024_atsa` on your machine and installs the required package on that environment. Additionally, since we included `ipykernel` in the dependencies, it should also install a kernel named `Python [conda env:.conda-phd2024_atsa]`.
+This creates a `phdinds2024_atsa` on your machine and installs the required package on that environment. Additionally, since we included `ipykernel` in the dependencies, it should also install a kernel named `Python [conda env:.conda-phdinds2024_atsa]`.
 
-Use this as your kernel when running the notebooks in this repository. After you opened the lecture notebook, Select `Kernel` > `Change Kernel` > `Python [conda env:.conda-phd2024_atsa]`.
+Use this as your kernel when running the notebooks in this repository. After you opened the lecture notebook, Select `Kernel` > `Change Kernel` > `Python [conda env:.conda-phdinds2024_atsa]`.
 
 The notebooks should run without any dependency error or issue after you set this correctly. 🎉
 

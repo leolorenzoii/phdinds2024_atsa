@@ -17,3 +17,4 @@ dependencies:
   - pip:
     - jupyter_contrib_nbextensions==0.5.1
     - ipywidgets==7.6.5
+  - pywavelets=1.1.1
